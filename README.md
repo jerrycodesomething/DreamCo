@@ -12,10 +12,12 @@ I've included a pdf ("WIA1002 Data Structure Project") which explains the projec
 DreamCorporation has contacted University of Malaya to hire talented students like you to build 
 the system. Depending on the capability of your system, the equivalent reward will be added to 
 your Data Structure assignment marks.
+
 DreamCorporation want to test you out to see if you’re fit for the job, here’s the skills you need:
 1. Traversing in Tree using Reference - Make sure you understand parent-child relationship
 2. Encryption and Decryption - To protect information leaking to interested parties
 3. Primary school maths - Percentage, Addition and Multiplication... Seriously??Project Requirements
+
 Figure 2: Implementation of Multi-level 
 marketing scheme as a tree
 Definition with examples (Referring to Figure 2)
@@ -23,6 +25,7 @@ Definition with examples (Referring to Figure 2)
 ❖ All Downlines : C’s all downlines are E, F, G, H, I, J
 ❖ Direct Upline : C’s direct upline is B
 ❖ All Uplines : C’s all uplines are A, B
+
 How does MLM work - by example?
 1. User A is the root node owned by DreamCorporation, its commission will be added to the 
 company revenue.
@@ -33,6 +36,7 @@ c. User B will get RM 4.5 (9%)
 d. User A will get RM 3 (6%)
 e. Since root node (User A) is reached, whatever’s that left RM 11.5 (3% + 20%) will 
 be added to company revenue.
+
 Encryption & Decryption
 1. Every user will need to have an encrypted_name to protect their identity.
 2. Only the company has the KEY to decrypt the encrypted_name to real_name.
