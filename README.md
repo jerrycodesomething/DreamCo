@@ -3,7 +3,9 @@
 
 
 ## Introduction
-DreamCo is a multi-level marketing desktop program developed in fulfilment of the course requirements for WIA1002 Data Structure. This was the first, full GUI project I developed with the GraphStream Java library for network-graph visualisation on top of the native Java libraries. While this program fulfils most of the functional requirements stipulated in the project task sheet, there are a number of major bugs that have yet to be rectified, so the project in is current state would be considered unstable. 
+DreamCo is a Java desktop program developed in fulfilment of the course requirements for WIA1002 Data Structure. This was the first, full GUI project I developed with the GraphStream Java library for network-graph visualisation on top of the native Java libraries. While this program fulfils most of the functional requirements stipulated in the project task sheet, there are a number of major bugs that have yet to be rectified, so the project in is current state would be considered unstable. 
+
+The general idea
 
 ## Project Overview
 I have included a pdf
