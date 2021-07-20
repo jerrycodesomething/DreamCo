@@ -1,5 +1,5 @@
 # DreamCo
-![DreamCo Banner]()
+![DreamCo Banner](https://github.com/jerrykingbob/DreamCo/blob/master/Dreamco%20Banner.png?raw=true)
 
 
 ## Introduction
