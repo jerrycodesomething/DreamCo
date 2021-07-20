@@ -10,8 +10,7 @@ I've included a pdf ("WIA1002 Data Structure Project") which explains the projec
 
 ![Project Requirements](https://raw.githubusercontent.com/jerrykingbob/DreamCo/master/Project%20Requirements.png)
 
-##Screenshots
-![Project Requirements](https://raw.githubusercontent.com/jerrykingbob/DreamCo/master/Project%20Requirements.png)
+## Screenshots
 ![Splashscreen](https://raw.githubusercontent.com/jerrykingbob/DreamCo/master/ad.png)
 ![Admin](https://raw.githubusercontent.com/jerrykingbob/DreamCo/master/dreamco.png)
 ![Client](https://raw.githubusercontent.com/jerrykingbob/DreamCo/master/client.png)
